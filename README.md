@@ -1,0 +1,2 @@
+# Mapgen
+Diamond Square implementation
